@@ -1,8 +1,9 @@
-Computer Science graduate focused on backend software, developer tooling,
-and AI/LLM applications.
+Recent Computer Science graduate building backend software and AI/LLM
+applications with Java and Python.
 
-### Technologies
+## Skills
 
-Python • Java • JavaScript • Flask • Express • Node.js
-Redis • PostgreSQL • SQLite • ChromaDB • OpenAI API
-Playwright • JavaParser • Jest • Git
+**Languages:** Java, Python, JavaScript, TypeScript, SQL
+**Frameworks:** Spring Boot, React, Flask, Express, Node.js
+**Data and AI:** PostgreSQL, MongoDB, SQLite, Redis, ChromaDB, OpenAI API
+**Tools:** Git, Docker, Maven, JUnit, Jest, Playwright, Linux
